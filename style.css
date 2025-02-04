@@ -1,0 +1,32 @@
+#home {
+    background: #cccc00;
+    height: 100%;
+    width: 100%;
+}
+#home section.wrapper {
+    display: flex;
+}
+#home section.wrapper div.left {
+    
+}
+#home section.wrapper div.left img {
+    margin-top: 200px;
+    margin-bottom: 370px;
+    border-radius: 200px;
+    margin-left: 500px;
+}
+#home section.wrapper div.rigth {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+#home section.wrapper div.rigth h2 {
+    font-size: 50px;
+    color: red;
+    border-bottom: 1px solid #504325;
+    
+}
+#home section.wrapper div.rigth h4 {
+    width: 500px;
+    font-size: 30px;
+    color: white;
+}
